@@ -5,3 +5,6 @@ this is Ganpati Selling Website
 
 # Logo
 ![image alt](https://github.com/prathameshshelar27/Chonkar-Ganesh-Chitra-Shala/blob/d330085dc9de0784593199d3ad2573cdcc52f471/Logo.jpg)
+
+# Poster Design
+![image alt](https://github.com/prathameshshelar27/Chonkar-Ganesh-Chitra-Shala/blob/d101230cd5b62344a6796d36411dbd91f9bc9ea3/Poster%20Design.jpg)
