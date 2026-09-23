@@ -8,3 +8,6 @@ this is Ganpati Selling Website
 
 # Poster Design
 ![image alt](https://github.com/prathameshshelar27/Chonkar-Ganesh-Chitra-Shala/blob/d101230cd5b62344a6796d36411dbd91f9bc9ea3/Poster%20Design.jpg)
+
+# Category page
+![image alt](https://github.com/prathameshshelar27/Chonkar-Ganesh-Chitra-Shala/blob/7e6b7af057fc16a6804578fcfdce718a36874359/Category_Page.jpg)
